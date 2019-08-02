@@ -1,6 +1,13 @@
 #####################################################
 # Jekyll (Static Site) Showcase - Add Your Site!
-
+- title:     web development tutorials
+  subtitle:  "A concise list of html tags, html attributes, more than 300 CSS properties fro the developers's community so that they can dig them at one place instead of wasting their time to search on google."
+  live:      https://www.web4college.com
+  source:    https://github.com/zainwah24/
+  thumbnail: web4college.png
+  tags: [html, html5, css, css3, webDesign]
+  
+  
 - title:     Jekyll URL Shortener
   subtitle:  This is a template repository for making URL Shorteners with Jekyll and GitHub Pages. Create short URLs that can be easily shared, tweeted, or emailed to friends. Fork this repo to get started. ✂️🔗
   live:      https://hlaueriksson.github.io/jekyll-url-shortener/
